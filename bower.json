@@ -1,0 +1,21 @@
+{
+  "name": "knreiseapi-enkeldemo",
+  "version": "0.0.0",
+  "homepage": "https://github.com/knreise/getting_started_demo",
+  "authors": [
+    "Atle Frenvik Sveen <atle.sveen@norkart.no>"
+  ],
+  "license": "Apache 1.1",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "KNreiseAPI": "~1.2.4",
+    "leaflet": "~0.7.3"
+  }
+}

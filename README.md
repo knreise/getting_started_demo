@@ -3,13 +3,10 @@ Working map example of KNReiseAPI
 
 Oppsett
 -------
- - Hent inn KNreiseAPI med avhengigheter med Bower, eller last ned alle nødvendige script manuelt. 
+ - Hent inn KNreiseAPI med avhengigheter, samt Leaflet  med Bower, eller last ned alle nødvendige script manuelt. 
    
-   bower install KNreiseAPI -S
+   ´´bower install´´
 
- - Gjør tilsvarende for Leaflet
-
-   bower install leaflet -S 
 
  - Vi skal lage et fullskjermskart som også tilpasser seg til mobile enheter. Det gjøres veldig enkelt. Alt vi trenger av HTML er en div-tagg som har en id vi kan bruke videre. 
 
